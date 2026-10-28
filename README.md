@@ -36,7 +36,6 @@
 
 <h3><code>Dhyey-Somaiya@github ~ $ ./links.sh</code></h3>
 
-```html
 <p><b>Full-Stack Developer · AI Builder · Open Source Enthusiast</b></p>
 
 <a
