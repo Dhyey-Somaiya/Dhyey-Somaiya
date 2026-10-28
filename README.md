@@ -36,15 +36,44 @@
 
 <h3><code>Dhyey-Somaiya@github ~ $ ./links.sh</code></h3>
 
+```html
 <p><b>Full-Stack Developer · AI Builder · Open Source Enthusiast</b></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhyey--somaiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyey-somaiya-910001349)
+<a
+  href="https://linkedin.com/in/dhyey-somaiya-910001349"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+<!--
+<a href="https://x.com/DhyeySomaiya" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/X-DhyeySomaiya-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+-->
+<a
+  href="https://medium.com/@dhyeysomaiya135"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"
+    alt="Medium"
+  />
+</a>
+<a
+  href="mailto:dhyeysomaiya135@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 
-<!-- [![X](https://img.shields.io/badge/X-DhyeySomaiya-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhyeySomaiya) -->
-
-[![Medium](https://img.shields.io/badge/Medium-@dhyeysomaiya-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhyeysomaiya135)
-[![Email](https://img.shields.io/badge/Email-dhyeysomaiya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyeysomaiya135@gmail.com)
-
-<br>
-
-</div>
+<br />
+```
