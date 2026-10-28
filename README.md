@@ -38,10 +38,12 @@
 
 <p><b>Full-Stack Developer · AI Builder · Open Source Enthusiast</b></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhyey--somaiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyey-somaiya)
-[![X](https://img.shields.io/badge/X-DhyeySomaiya-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhyeySomaiya)
-[![Medium](https://img.shields.io/badge/Medium-@dhyeysomaiya-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhyeysomaiya)
-[![Email](https://img.shields.io/badge/Email-dhyeysomaiya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyeysomaiya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhyey--somaiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyey-somaiya-910001349)
+
+<!-- [![X](https://img.shields.io/badge/X-DhyeySomaiya-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhyeySomaiya) -->
+
+[![Medium](https://img.shields.io/badge/Medium-@dhyeysomaiya-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhyeysomaiya135)
+[![Email](https://img.shields.io/badge/Email-dhyeysomaiya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyeysomaiya135@gmail.com)
 
 <br>
 
