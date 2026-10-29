@@ -1,8 +1,7 @@
  <!--
   GitHub Profile README — Dhyey-Somaiya
   Repository must be named EXACTLY: Dhyey-Somaiya
-  SVGs are generated locally by the scripts in /scripts and refreshed daily
-  by .github/workflows/update-profile-art.yml
+  SVGs are generated locally by the scripts in /scripts
 -->
 
 <div align="center">
@@ -20,13 +19,6 @@
   </tr>
 </table>
 
-<br />
-
-<h3><code>Dhyey-Somaiya@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
-
-<br />
 <br />
 
 <h3><code>Dhyey-Somaiya@github ~ $ ./links.sh</code></h3>
